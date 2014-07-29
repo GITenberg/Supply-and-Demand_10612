@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   id="svg577"
+   sodipodi:version="0.33pre"
+   width="708.28pt"
+   height="621.89pt"
+   sodipodi:docbase="/home/jjc/supply_and_demand_book/play/"
+   sodipodi:docname="/home/jjc/supply_and_demand_book/play/fig1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs579">
+    <linearGradient
+       id="linearGradient621">
+      <stop
+         style="stop-color:#000;stop-opacity:1;"
+         offset="0"
+         id="stop622" />
+      <stop
+         style="stop-color:#fff;stop-opacity:1;"
+         offset="1"
+         id="stop623" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient624" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient625" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient626" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient627" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient628" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient629" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient630" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient631" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient632" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient633" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient634" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient635" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient636" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient637" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient638" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient639" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient640" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient641" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient642" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient643" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient644" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient645" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient646" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient647" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient648" />
+    <linearGradient
+       xlink:href="#linearGradient621"
+       id="linearGradient649" />
+  </defs>
+  <sodipodi:namedview
+     id="base" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 94.3155 113.845 L 94.3155 706.212 "
+     id="path586" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 94.3155 704.558 L 809.128 704.558 "
+     id="path587" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 94.7716 171.292 C 107.263 183.304 216.928 308.289 326.435 384.236 C 468.728 485.488 669.906 540.34 672.761 543.359 C 672.761 544.919 672.371 544.529 673.931 544.529 "
+     id="path595"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 95.9415 538.679 C 106.678 544.643 290.682 463.256 351.005 422.846 C 445.258 381.235 604.9 210.565 650.531 139.702 "
+     id="path598"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 368.147 411.084 L 93.4384 411.084 "
+     id="path556" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 441.142 364.912 L 94.6464 364.912 "
+     id="path557"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 370.016 411.084 L 370.016 704.481 "
+     id="path558" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 300.872 364.365 L 300.872 704.481 "
+     id="path559" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;stroke-width:6.25;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none;fill-opacity:1;"
+     d="M 446.635 452.197 L 95.3071 452.197 "
+     id="path560" />
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;text-anchor:start;writing-mode:lr;"
+     x="655.423279"
+     y="143.081894"
+     id="text561"
+     sodipodi:linespacing="100%">
+    <tspan
+       x="655.423279"
+       y="143.081894"
+       sodipodi:role="line"
+       id="tspan564"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;">
+S'</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;text-anchor:start;writing-mode:lr;"
+     x="66.070900"
+     y="124.582092"
+     id="text566"
+     sodipodi:linespacing="100%">
+    <tspan
+       x="66.0709000"
+       y="124.582092"
+       sodipodi:role="line"
+       id="tspan569"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+Y</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="451.924927"
+     y="391.508514"
+     id="text574">
+    <tspan
+       id="tspan575"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+R</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="687.137390"
+     y="558.007202"
+     id="text577">
+    <tspan
+       id="tspan578"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+D'</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="816.636292"
+     y="716.577332"
+     id="text580">
+    <tspan
+       id="tspan581"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+X</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="285.426281"
+     y="740.362762"
+     id="text583">
+    <tspan
+       id="tspan584"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+N</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="356.782837"
+     y="743.005661"
+     id="text586">
+    <tspan
+       id="tspan587"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+M</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="66.0708942"
+     y="727.148666"
+     id="text589">
+    <tspan
+       id="tspan590"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+0</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="58.142391"
+     y="544.792969"
+     id="text592">
+    <tspan
+       id="tspan593"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+S</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="298.640472"
+     y="354.508820"
+     id="text595">
+    <tspan
+       id="tspan596"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+Q</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="359.425690"
+     y="402.079773"
+     id="text598">
+    <tspan
+       id="tspan599"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+P</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="55.499554"
+     y="185.367310"
+     id="text601">
+    <tspan
+       id="tspan602"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+D</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:italic;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="63.4280586"
+     y="370.365723"
+     id="text604"
+     sodipodi:linespacing="100%">
+    <tspan
+       x="63.4280586"
+       y="370.365723"
+       sodipodi:role="line"
+       id="tspan607"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+l</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:italic;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="52.8567171"
+     y="417.936829"
+     id="text609">
+    <tspan
+       id="tspan610"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+m</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:italic;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="60.7852249"
+     y="460.222168"
+     id="text612">
+    <tspan
+       id="tspan613"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+k</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:italic;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="272.212090"
+     y="489.293427"
+     id="text615">
+    <tspan
+       id="tspan616"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+q</tspan>
+  </text>
+  <text
+     style="fill:#000000;stroke:#000000;font-family:Bitstream Vera Sans;font-style:italic;font-weight:normal;font-size:36;text-anchor:start;writing-mode:lr;fill-opacity:1;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="457.210632"
+     y="447.008057"
+     id="text618">
+    <tspan
+       id="tspan619"
+       style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1;">
+r</tspan>
+  </text>
+</svg>
