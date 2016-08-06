@@ -1,0 +1,38 @@
+_repo: Supply-and-Demand_10612
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Keynes, John Maynard
+    aliases:
+    - Keynes, John Maynard Keynes, Baron
+    - Keynes, J. M. (John Maynard)
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '6280'
+    url: http://www.gutenberg.org/2009/agents/6280
+    wikipedia: http://en.wikipedia.org/wiki/John_Maynard_Keynes
+creator:
+  author:
+    agent_name: Henderson, Hubert Douglas, Sir
+    alias: Henderson, H. D. (Hubert Douglas), Sir
+    birthdate: 1890
+    deathdate: 1952
+    gutenberg_agent_id: '3601'
+    url: http://www.gutenberg.org/2009/agents/3601
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Consumption (Economics)'
+- !lcsh 'Supply and demand'
+- !lcsh 'Prices'
+- GITenberg
+title: Supply and Demand
+url: http://www.gutenberg.org/ebooks/10612
